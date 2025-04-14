@@ -76,12 +76,17 @@ This project estimates rooftop solar photovoltaic (PV) potential using deep lear
 
 ## Key References
 
-- Zhong et al., 2021. *A city-scale estimation of rooftop solar photovoltaic potential based on deep learning.* [Applied Energy](https://doi.org/10.1016/j.apenergy.2021.117132)
-- Liu et al., 2024. *Task specific pretraining with noisy labels for remote sensing image segmentation.* [arXiv](https://arxiv.org/abs/2402.16164)
-- Li et al., 2016. *Pixel-based estimation of solar energy potential.* [Energy and Buildings](https://doi.org/10.1016/j.enbuild.2016.08.025)
-- Lukač et al., 2014. *LiDAR-based rooftop PV assessment.* [Energy](https://doi.org/10.1016/j.energy.2013.12.066)
-- Assouline et al., 2017. *Quantifying PV potential via ML.* [Solar Energy](https://doi.org/10.1016/j.solener.2016.11.045)
-- Nelson & Grubesic, 2020. *LiDAR vs UAS for rooftop PV.* [Sustainable Cities and Society](https://doi.org/10.1016/j.scs.2020.102353)
+- Zhong, T., Zhang, Z., Chen, M., Zhang, K., Zhou, Z., Zhu, R., Wang, Y., Lü, G., & Yan, J. (2021). A city-scale estimation of rooftop solar photovoltaic potential based on deep learning. *Applied Energy*, 298, 117132. https://doi.org/10.1016/j.apenergy.2021.117132
+
+- Liu, C., Albrecht, C. M., Wang, Y., & Zhu, X. X. (2024). Task specific pretraining with noisy labels for remote sensing image segmentation. *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*. https://arxiv.org/abs/2402.16164
+
+- Li, Y., Ding, D., Liu, C., & Wang, C. (2016). A pixel-based approach to estimation of solar energy potential on building roofs. *Energy and Buildings*, 129, 563–573. https://doi.org/10.1016/j.enbuild.2016.08.025
+
+- Lukač, N., Seme, S., Žlaus, D., Štumberger, G., & Žalik, B. (2014). Buildings roofs photovoltaic potential assessment based on LiDAR (Light Detection And Ranging) data. *Energy*, 66, 598–609. https://doi.org/10.1016/j.energy.2013.12.066
+
+- Assouline, D., Mohajeri, N., & Scartezzini, J. L. (2017). Quantifying rooftop photovoltaic solar energy potential: A machine learning approach. *Solar Energy*, 141, 278–296. https://doi.org/10.1016/j.solener.2016.11.045
+
+- Nelson, J. R., & Grubesic, T. H. (2020). The use of LiDAR versus unmanned aerial systems (UAS) to assess rooftop solar energy potential. *Sustainable Cities and Society*, 61, 102353. https://doi.org/10.1016/j.scs.2020.102353
 
 ---
 
