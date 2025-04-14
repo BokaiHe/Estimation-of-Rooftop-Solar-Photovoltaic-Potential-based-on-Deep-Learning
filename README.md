@@ -50,16 +50,6 @@ This project estimates rooftop solar photovoltaic (PV) potential using deep lear
 | Recall     | 0.7370  |
 | F1 Score   | 0.7593  |
 
-### Installation Potential Comparison
-
-| Metric                         | Ground Truth (B) | Predicted Mask (A) |
-|-------------------------------|------------------|---------------------|
-| Identified Roofs              | 3                | 6                   |
-| Suitable Roofs                | 3                | 5                   |
-| Total Solar Panels            | 108              | 181                 |
-| Annual Energy (kWh)           | 45,490.1         | 76,207.7            |
-| Annual Economic Benefit (USD) | 22,745.0         | 38,103.8            |
-
 ### Observed Challenges
 
 - Smoothed building edges due to shadows/occlusions
