@@ -2,7 +2,7 @@
 *Pina Pi, Tiancheng Gu, Bokai He*  
 *Department of Earth and Environmental Engineering, Columbia University*
 
-## 📌 Overview
+## Overview
 
 This project estimates rooftop solar photovoltaic (PV) potential using deep learning-based semantic segmentation. A U-Net model was trained on RGB and Near-Infrared (NIR) imagery to identify suitable rooftop areas for solar installation, promoting clean energy development and sustainability in urban environments.
 
